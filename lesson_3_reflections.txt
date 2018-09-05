@@ -1,1 +1,2 @@
 When would you want to create a remote repo rather than keeping all your work local?
+In case i am not able to access my local machine, i can use github to do the same task since i have my entire repo set up there.
